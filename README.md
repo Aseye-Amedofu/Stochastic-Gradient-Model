@@ -8,3 +8,5 @@ Model Tuning
 Model Testing
 Comparison of models
 
+## Author
+Samuel Aseye Amedofu
